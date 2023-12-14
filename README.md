@@ -2,7 +2,7 @@
 Hasil kolaborasi antara devisi Data Analytics, UI/UX, dan Product Management mengenai projek perancangan aplikasi mulai dari pencarian data, mengolah dan menganalisis data, modeling prediksi, visualisasi dashboard, pembuatan PRD, sampai pembuatan prototype aplikasi.
 
 # PENJELASAN PROJEK
-Melakukan riset, Mendefinisikan masalah, Mengembangkan solusi digital, Membuat Product Requirement Document (PRD), Membuat Product UI/UX Prototype, Membuat Data Analytics Dashboard
+Melakukan riset, Mendefinisikan masalah, Mengembangkan solusi digital, Membuat Product Requirement Document (PRD), Membuat Product UI/UX Prototype, Membuat Data Analytics Dashboard.
 
 # OUTPUT HASIL PRODUK YANG DIKEMBANGKAN
 
